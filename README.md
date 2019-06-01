@@ -18,7 +18,7 @@ Array:
 
 Sorting:
 
-1> Bubble Sort
+1> Bubble Sort ( Easy TC O (n^2) SC:O(1)): https://github.com/naashonomics/algoexpert/blob/master/bubble_sort.ipynb
 
 2> Insertion Sort
 
